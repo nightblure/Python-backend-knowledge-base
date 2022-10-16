@@ -15,5 +15,6 @@
 * https://www.youtube.com/watch?v=BoazgBZ4D7k&list=WL&index=33&ab_channel=RineiskyDev
 
 ## Полезные ссылки
+* [Лучшая среда разработки для python - PyCharm(Community версия](https://www.jetbrains.com/ru-ru/pycharm/download/#section=windows)
 * [Удобный online-редактор кода](https://www.online-python.com/)
 
