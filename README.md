@@ -3,7 +3,7 @@
 * [Мой github](https://github.com/nightblure/docs) с разными проектами и структурированными конспектами (файл “Конспекты.docx”), по которым можно хорошо подготовиться к собесам
 * [Учебный проект, на который ссылаются некоторые моменты из конспектов (куча полезного кода)](https://github.com/nightblure/Python-Study)
 * [Маленький учебный сайт на Django с инструкцией как сделать поднять сайт в контейнере Docker](https://github.com/nightblure/django-site-docker)
-* [Лучший бесплатный курс по Django](https://www.youtube.com/watch?v=ySNYrVJFCjM&list=PLmC7X4gkQWCeyIdLxHZdts-3tkcrxP4-o)
+* [Лучший бесплатный курс по Django](https://youtube.com/playlist?list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F)
 * [Теория по DRF](https://github.com/ilyachch/django-rest-framework-rusdoc)
 
 ## Лучшие каналы и видео на Youtube с мок-интервью/разборами вопросов на собесах (junior/middle)
