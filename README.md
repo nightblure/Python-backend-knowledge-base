@@ -41,6 +41,9 @@ P.S.: Выбор сделан в пользу фреймворка ```pytest```,
 
 ---
 
+## ООП/SOLID
+* [Лучший источник на русском языке про принципы SOLID](https://solidbook.vercel.app/dip)
+
 ## Лучшие каналы и видео на Youtube с мок-интервью/разборами вопросов на собесах (junior/middle)
 * https://www.youtube.com/channel/UCqfNV2ENowjMOwGWxpqWi5A/videos
 * https://www.youtube.com/channel/UCmCXpteG_Em2Nlmrfg1MoNQ
