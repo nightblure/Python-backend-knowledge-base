@@ -9,11 +9,11 @@
 ## Backend
 * [Реализация отказоустойчивого кластера RabbitMQ с балансировщиком нагрузки HAProxy + Docker](https://github.com/nightblure/Python-x-RabbitMQ-failover-cluster)
 * [Реализация простого примера асинхронной логической репликации с Django и PostgreSQL](https://github.com/nightblure/pg_replica_app)
-* [Маленький учебный сайт на Django](https://github.com/nightblure/django-site-docker) с инструкцией как сделать поднять сайт в контейнере Docker + pytest + REST API
+* [Pet project сайт на Django](https://github.com/nightblure/django-site-docker) (Docker + pytest + Django REST Framework)
 * [Оптимальные и проверенные решения алгоритмических задач с Leetcode + немного теории](https://github.com/nightblure/Leetcode)
 ---
 
-## Django & Django REST Framework
+## Django & Django REST Framework (DRF)
 * [Лучший бесплатный курс по Django от Сергея Балакирева](https://youtube.com/playlist?list=PLA0M1Bcd0w8xO_39zZll2u1lz_Q-Mwn1F)
 * [Теория по DRF на русском языке](https://github.com/ilyachch/django-rest-framework-rusdoc)
 * [Лучший бесплатный курс по DRF от Сергея Балакирева](https://youtube.com/playlist?list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs)
@@ -44,11 +44,14 @@ P.S.: Выбор сделан в пользу фреймворка ```pytest```,
 ## ООП/SOLID
 * [Лучший источник на русском языке про принципы SOLID](https://solidbook.vercel.app/dip)
 
+---
+
 ## Лучшие каналы и видео на Youtube с мок-интервью/разборами вопросов на собесах (junior/middle)
 * https://www.youtube.com/channel/UCqfNV2ENowjMOwGWxpqWi5A/videos
 * https://www.youtube.com/channel/UCmCXpteG_Em2Nlmrfg1MoNQ
 * https://www.youtube.com/c/AndyPronin
 * https://www.youtube.com/watch?v=BoazgBZ4D7k&list=WL&index=33&ab_channel=RineiskyDev
+
 ---
 
 ## Полезные ссылки
