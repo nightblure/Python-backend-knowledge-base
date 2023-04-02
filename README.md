@@ -44,6 +44,13 @@ P.S.: Выбор сделан в пользу фреймворка ```pytest```,
 ## ООП/SOLID
 * [Лучший источник на русском языке про принципы SOLID](https://solidbook.vercel.app/dip)
 
+---
+
+## Асинхронность, многопоточность и многопроцессность
+* [Отличное видео про асинхронность, многопоточность и многопроцессность в Python](https://youtu.be/_4QY1nGFRY8)
+
+---
+
 ## Лучшие каналы и видео на Youtube с мок-интервью/разборами вопросов на собесах (junior/middle)
 * https://www.youtube.com/channel/UCqfNV2ENowjMOwGWxpqWi5A/videos
 * https://www.youtube.com/channel/UCmCXpteG_Em2Nlmrfg1MoNQ
