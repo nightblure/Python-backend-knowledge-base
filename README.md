@@ -9,6 +9,8 @@
 * [Много полезного бойлерплейта на каждый день](https://github.com/nightblure/boilerplate)
   
 * [Сервис авторизации на базе JWT (FastAPI, e2e and unit tests)](https://github.com/nightblure/jwt_auth)
+
+* [Демо Flask сервиса в Kubernetes x Helm](https://github.com/nightblure/flask-x-helm-x-k8s)
   
 * [Реализация отказоустойчивого кластера RabbitMQ с балансировщиком нагрузки HAProxy + Docker](https://github.com/nightblure/Python-x-RabbitMQ-failover-cluster)
   
