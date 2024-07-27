@@ -6,6 +6,8 @@
 ---
 
 ## My code
+* [Мой фреймворк для внедрения зависимостей](https://github.com/nightblure/injection)
+  
 * [Много полезного бойлерплейта на каждый день](https://github.com/nightblure/boilerplate)
   
 * [Сервис авторизации на базе JWT (FastAPI, e2e and unit tests)](https://github.com/nightblure/jwt_auth)
