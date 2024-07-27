@@ -1,7 +1,7 @@
 # База знаний для Python backend разработчиков 
 
 ## Общие ссылки
-* [Мой docs репозиторий](https://github.com/nightblure/docs) со структурированными конспектами (файл “Конспекты.docx”), по которым можно хорошо подготовиться к собесам
+* [Структурированные конспекты]([https://github.com/nightblure/docs](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B.docx)), по которым можно хорошо подготовиться к техническим интервью
 
 ---
 
