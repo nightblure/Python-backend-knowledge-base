@@ -1,16 +1,23 @@
 # База знаний для Python backend разработчиков 
 
-## Общие ссылки
+## Общее
 * [Структурированные конспекты](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B.docx), по которым можно хорошо подготовиться к техническим интервью
 
 ---
 
-## My code
+## FastAPI/SQLAlchemy
+* [Серия видео по FastAPI x SQLAlchemy x Pydantic (автор - Сурен Хоренян)](https://www.youtube.com/@SurenKhorenyan/videos)
+* [FastAPI, SQLAlchemy, Pydantic and etc (автор - Артем Шумейко)](https://www.youtube.com/@artemshumeiko/playlists)
+* [Сервис авторизации на базе JWT (FastAPI, e2e and unit tests)](https://github.com/nightblure/jwt_auth)
+
+---
+
+## Usable and good code
 * [Мой фреймворк для внедрения зависимостей](https://github.com/nightblure/injection)
   
 * [Много полезного бойлерплейта на каждый день](https://github.com/nightblure/boilerplate)
   
-* [Сервис авторизации на базе JWT (FastAPI, e2e and unit tests)](https://github.com/nightblure/jwt_auth)
+* [Сервис авторизации на базе JWT (FastAPI, integration and unit tests)](https://github.com/nightblure/jwt_auth)
 
 * [Демо Flask сервиса в Kubernetes x Helm](https://github.com/nightblure/flask-x-helm-x-k8s)
   
@@ -21,6 +28,15 @@
 * [Cайт на Django + DRF + pytest](https://github.com/nightblure/django-site-docker)
   
 * [Оптимальные и проверенные решения алгоритмических задач с Leetcode + немного теории](https://github.com/nightblure/Leetcode)
+
+---
+
+## Dependency injection
+Очень важная тема, рекомендую ознакомиться со следующими пакетами:
+* [injection](https://github.com/nightblure/injection);
+* [that-depends](https://github.com/modern-python/that-depends);
+* [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector).
+
 ---
 
 ## Opensource code [Advanced]
@@ -37,12 +53,6 @@
 * [Теория по DRF на русском языке](https://github.com/ilyachch/django-rest-framework-rusdoc)
 * [Бесплатный курс по DRF от Сергея Балакирева](https://youtube.com/playlist?list=PLA0M1Bcd0w8xZA3Kl1fYmOH_MfLpiYMRs)
 
----
-
-## FastAPI/SQLAlchemy
-* [Хорошие обучающие видео по FastAPI x SQLAlchemy x Pydantic от Сурена Хореняна](https://www.youtube.com/@SurenKhorenyan/videos)
-* [FastAPI, SQLAlchemy, Pydantic and etc (Артем Шумейко)](https://www.youtube.com/@artemshumeiko/playlists)
-* [Сервис авторизации на базе JWT (FastAPI, e2e and unit tests)](https://github.com/nightblure/jwt_auth)
 ---
 
 ## Тестирование [pytest]
