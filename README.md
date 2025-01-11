@@ -8,6 +8,11 @@
 * [Computer Science](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/computer_science.md);
 ---
 
+## Вопросы на собеседовании
+[Списочек вопросов для HR, технических спецов и команды](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_questions.md)
+
+---
+
 ## FastAPI/SQLAlchemy
 * [Серия видео по FastAPI x SQLAlchemy x Pydantic (автор - Сурен Хоренян)](https://www.youtube.com/@SurenKhorenyan/videos)
 * [FastAPI, SQLAlchemy, Pydantic and etc (автор - Артем Шумейко)](https://www.youtube.com/@artemshumeiko/playlists)
