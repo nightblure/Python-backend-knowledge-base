@@ -2,7 +2,7 @@
 
 ## Теория для подготовки к собесам
 * [Python](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/python.md);
-* [Web](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/web.md)
+* [Web](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/web.md);
 * [Базы данных](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/databases.md);
 * [Брокеры/очереди сообщений](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/brokers.md);
 * [Computer Science](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/computer_science.md);
