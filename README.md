@@ -1,7 +1,7 @@
 # База знаний для Python backend разработчиков 
 
 ## Теория для подготовки к собесам
-* [Python](https://github.com/nightblure/Python-backend-knowledge-base/tree/main/interview_notes), по которым можно хорошо подготовиться к техническим интервью
+* [Python](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/python.md);
 * [Web](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/web.md)
 * [Базы данных](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/databases.md);
 * [Брокеры/очереди сообщений](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/brokers.md);
