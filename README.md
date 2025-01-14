@@ -6,53 +6,53 @@
 * [Базы данных](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/databases.md);
 * [Брокеры/очереди сообщений](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/brokers.md);
 * [Computer Science](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_notes/computer_science.md);
----
-
-## Вопросы на собеседовании
-[Списочек вопросов для HR, технических спецов и команды](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_questions.md)
 
 ---
 
 ## FastAPI/SQLAlchemy
 * [Серия видео по FastAPI x SQLAlchemy x Pydantic (автор - Сурен Хоренян)](https://www.youtube.com/@SurenKhorenyan/videos)
 * [FastAPI, SQLAlchemy, Pydantic and etc (автор - Артем Шумейко)](https://www.youtube.com/@artemshumeiko/playlists)
-* [Сервис авторизации на базе JWT (FastAPI, e2e and unit tests)](https://github.com/nightblure/jwt_auth)
 
 ---
 
-## Usable and good code
-* [Мой фреймворк для внедрения зависимостей](https://github.com/nightblure/injection)
+## Usable code
+* [injection - фреймворк для внедрения зависимостей](https://github.com/nightblure/injection)
   
 * [Много полезного бойлерплейта на каждый день](https://github.com/nightblure/boilerplate)
   
 * [Сервис авторизации на базе JWT (FastAPI, integration and unit tests)](https://github.com/nightblure/jwt_auth)
 
-* [Демо Flask сервиса в Kubernetes x Helm](https://github.com/nightblure/flask-x-helm-x-k8s)
+* [Flask x Kubernetes x Helm](https://github.com/nightblure/flask-x-helm-x-k8s)
   
 * [Реализация отказоустойчивого кластера RabbitMQ с балансировщиком нагрузки HAProxy + Docker](https://github.com/nightblure/Python-x-RabbitMQ-failover-cluster)
   
 * [Реализация простого примера асинхронной логической репликации с Django и PostgreSQL](https://github.com/nightblure/pg_replica_app)
   
-* [Cайт на Django + DRF + pytest](https://github.com/nightblure/django-site-docker)
-  
 * [Оптимальные и проверенные решения алгоритмических задач с Leetcode + немного теории](https://github.com/nightblure/Leetcode)
 
 ---
 
+## Tooling (package managers, linters and etc.)
+* [uv](https://github.com/astral-sh/uv)
+* [Hatch](https://github.com/pypa/hatch)
+* [ruff](https://github.com/astral-sh/ruff)
+
+---
+
 ## Dependency injection
-Очень важная тема, рекомендую ознакомиться со следующими пакетами:
 * [injection](https://github.com/nightblure/injection);
 * [that-depends](https://github.com/modern-python/that-depends);
 * [python-dependency-injector](https://github.com/ets-labs/python-dependency-injector).
 
 ---
 
-## Opensource code [Advanced]
+## Opensource code
 
 * [Apache Superset](https://github.com/apache/superset)
 * [Netflix Dispatch](https://github.com/Netflix/dispatch)
 * [Бэкенд сайта Школы сильных программистов на Django/DRF](https://github.com/tough-dev-school/education-backend)
 * [Cosmic Python (DDD, event sourcing, CQRS and etc.)](https://github.com/cosmicpython/code)
+* [testcontainers](https://github.com/testcontainers/testcontainers-python)
   
 ---
 
@@ -63,10 +63,7 @@
 
 ---
 
-## Тестирование [pytest]
-
-Ниже приведены несколько ссылок, которых более чем достаточно, чтобы начать писать качественнные тесты. Также хорошие тесты можно найти в некоторых моих проектах
-
+## Testing [pytest]
 1. [Документация](https://pytest-docs-ru.readthedocs.io/ru/latest/contents.html) для ```pytest``` на русском языке
 2. [Полезный чек-лист](https://stribny.name/blog/pytest/#web-apps) для ```pytest``` (пробежка по общим вещам + обвесы по типу многопоточного запуска тестов, плагинов и т.д.)
 3. [Цикл из 7 статей про pytest на Habr](https://habr.com/ru/post/448782/). Много инфы про фишки и разные возможности ```pytest```
@@ -82,6 +79,11 @@
 * [Computer Science Center: Многопоточность и GIL](https://www.youtube.com/watch?v=nR8WhdcRJwM&ab_channel=ComputerScienceCenter)
 *  [Computer Science Center: Быстрее, Python, ещё быстрее](https://www.youtube.com/watch?v=-lMiAKKyLFI&ab_channel=ComputerScienceCenter)
 * [Отличное видео про асинхронность, многопоточность и многопроцессность в Python](https://youtu.be/_4QY1nGFRY8)
+
+---
+
+## Вопросы на собеседовании
+[Списочек вопросов для HR, технических спецов и команды](https://github.com/nightblure/Python-backend-knowledge-base/blob/main/interview_questions.md)
 
 ---
 
