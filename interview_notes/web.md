@@ -154,3 +154,14 @@ eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4
 
 ---
 
+## CORS (Cross Origin Resource Sharing)
+
+_CORS_-политики работают **только в браузерах** по следующему принципу:
+1. браузер подставляет **заголовок** `Origin` со значением хоста, откуда летит запрос в бэкенд;
+
+2. бэкенд заранее знает о доверенных `allowed origins` и в них он он проверяет наличие текущего `Origin`;
+
+3. если _origin_ есть среди доверенных, бэкенд отправит **заголовок** `Access-Control-Allow-Origin`,
+в противном случае фронтенд не увидит этого заголовка и возникнет ошибка _CORS_.
+
+---
